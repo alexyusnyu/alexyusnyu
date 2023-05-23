@@ -7,7 +7,7 @@
 
 🎓 In addition to my Python endeavors, I'm expanding my knowledge of software engineering principles, algorithms, and data structures. I believe in continuous learning and strive to improve my coding skills every day.
 
-🌐 Let's connect and build amazing things together! You can find me on LinkedIn [insert LinkedIn profile link] and check out my projects on GitHub [insert GitHub profile link]. Feel free to explore and contribute!
+🌐 Let's connect and build amazing things together! You can find me on LinkedIn [linkedin.com/in/shadowpunk] and check out my projects on GitHub [https://github.com/slayer1649](https://github.com/slayer1649)]. Feel free to explore and contribute!
 
 
 

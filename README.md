@@ -1,8 +1,14 @@
 # **sh4dowpunk**
 ## About Me
 
-Hello there! I'm passionate about software development and solving complex problems through code. I have experience in Python, Java, JavaScript, HTML, CSS, SQL, and Django. I'm constantly looking for opportunities to learn new things and grow as a developer.
-## Contact
+👋 Hi there! I'm Alex, a software developer who loves Python, Java, JavaScript, HTML, CSS, SQL, and Django.
+
+🚀 Tech Stack: Python 🐍 | Java ☕ | JavaScript 🌐 | HTML5/CSS | Django 🎸
+
+🌱 Lifelong learner, open-source enthusiast, and UX advocate.
+
+
+## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shadowpunk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shadowpunk/)](https://www.linkedin.com/in/shadowpunk/)     
 

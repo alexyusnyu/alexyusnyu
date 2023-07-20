@@ -1,7 +1,7 @@
 # **sh4dowpunk**
 ## About Me
 
-Hello there! I'm passionate about software development and solving complex problems through code. I have experience in Python, Java, JavaScript, HTML, CSS, SQL, and Django. My journey in the world of programming has been exciting, and I'm constantly looking for opportunities to learn and grow as a developer.
+Hello there! I'm passionate about software development and solving complex problems through code. I have experience in Python, Java, JavaScript, HTML, CSS, SQL, and Django. I'm constantly looking for opportunities to learn new things and grow as a developer.
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shadowpunk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shadowpunk/)](https://www.linkedin.com/in/shadowpunk/)     

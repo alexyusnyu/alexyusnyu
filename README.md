@@ -3,9 +3,9 @@
 
 👋 Hi there! I'm Alex, a software developer who loves Python, Java, JavaScript, HTML, CSS, SQL, and Django.
 
-🚀 Tech Stack: Python 🐍 | Java ☕ | JavaScript 🌐 | HTML5/CSS | Django 🎸
+🌱 Lifelong learner, open-source enthusiast
 
-🌱 Lifelong learner, open-source enthusiast, and UX advocate.
+🚀 Tech Stack: Python 🐍 | Java ☕ | JavaScript 🌐 | HTML5/CSS | Django 🎸 | SQL
 
 
 ## Contacts

@@ -5,7 +5,7 @@ Hello there! I'm passionate about software development and solving complex probl
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sh4dowpunk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sh4dowpunk/)](https://www.linkedin.com/in/shadowpunk/)
-[![Instagram](https://img.shields.io/badge/Instagram-sh4dowpunk-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/yourusername/)
+[![Instagram](https://img.shields.io/badge/Instagram-sh4dowpunk-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/sh4dowpunk/)
 ✉️ Email: slayer1649@gmail.com
 📞 Phone: +359 89 2300 292
 

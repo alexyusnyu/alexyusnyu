@@ -21,20 +21,9 @@
 
 
 
-## Programming Languages
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-green?style=flat-square)
-
-
-
-
-
 <div id="stats" align="center">
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sh4dowpunk&theme=dark&background=000000)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sh4dowpunk&theme=dark&background=000000)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowpunk&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowpunk&layout=compact&theme=vision-friendly-dark)

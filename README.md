@@ -19,3 +19,5 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=sh4dowpunk&theme=dark&background=20232a&fire=FFA500)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh4dowpunk&theme=dark&line_height=40&hide=css&bg_color=20232a)
+
+![](https://komarev.com/ghpvc/?username=sh4dowpunk&color=006E0F)

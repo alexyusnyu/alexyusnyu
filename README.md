@@ -1,9 +1,7 @@
 # **Alex (sh4dowpunk)**
 ## Software Engineer | Open Source Enthusiast
 
-👋 Hello, I'm Alex – a dedicated software engineer with a passion for crafting exceptional solutions.
-
-🌱 I thrive on continuous learning and actively contribute to open source projects.
+Greetings, I'm Alex, a meticulous software engineer driven by a passion for crafting elegant solutions.
 
 🚀 **Tech Stack:** 
 
@@ -16,9 +14,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Linux Shell](https://img.shields.io/badge/-Linux%20Shell%2FBash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-006400?style=for-the-badge&logo=web)](https://sh4dowpunk.github.io/)
+![Linux Shell](https://img.shields.io/badge/-Linux%20Shell-4EAA25?style=flat-square&logo=gnu-linux&logoColor=white)
 
 ## **Contact Me**
 
@@ -29,13 +25,13 @@ Follow me on Instagram:
 [![Instagram](https://img.shields.io/badge/Instagram-%40sh4dowpunk-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sh4dowpunk/)](https://www.instagram.com/sh4dowpunk/)
 
 📧 Email: slayer1649@gmail.com
-📞 Phone: +359 89 2300 292
 
-<div id="stats" align="center">
+📞 Phone: +359 89 2300 292
 
 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sh4dowpunk&theme=dark&background=20232a&fire=FFA500)
+
 
 
 <a href="https://github.com/sh4dowpunk"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh4dowpunk&theme=dark&line_height=40&hide=css&bg_color=20232a"/> </a>

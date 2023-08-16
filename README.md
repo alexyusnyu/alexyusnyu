@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=006E0FeE&background=04090F00&vCenter=true&width=435&lines=Hi+there+👋🏼,+I+am+Alex;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+Code&weight600&pause=1000&color=006E0FeE&background=04090F00&vCenter=true&width=600&lines=Hi+there+👋🏼,+I'm+Alex;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 ## 🚀 **Tech Stack:**
 

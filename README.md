@@ -26,17 +26,17 @@
 
 ## **My portfolio**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20webpage-orange?style=for-the-badge&logo=web&logoColor=white)](https://sh4dowpunk.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20webpage-orange?style=for-the-badge&logo=web&logoColor=white)](https://alexyusnyu.github.io/)
 
 ## **Contact Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shadowpunk/)](https://www.linkedin.com/in/shadowpunk/) [![Instagram](https://img.shields.io/badge/Instagram-%40sh4dowpunk-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sh4dowpunk/)](https://www.instagram.com/sh4dowpunk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexyusnyu/)](https://www.linkedin.com/in/alexyusnyu/) [![Instagram](https://img.shields.io/badge/Instagram-%40sh4dowpunk-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sh4dowpunk/)](https://www.instagram.com/sh4dowpunk/)
 
-📧 Email: [slayer1649@gmail.com](mailto:slayer1649@gmail.com) 📞 Phone: +359 89 2300 292
+📧 Email: [alexyusnyu@gmail.com](mailto:alexyusnyu@gmail.com) 📞 Phone: +359 89 2300 292
 
 ## **GitHub Stats**
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=sh4dowpunk&theme=dark&background=20232a&fire=FFA500)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=alexyusnyu&theme=dark&background=20232a&fire=FFA500)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh4dowpunk&theme=dark&line_height=40&hide=css&bg_color=20232a)
 

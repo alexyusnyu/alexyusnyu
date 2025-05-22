@@ -32,12 +32,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexyusnyu/)](https://www.linkedin.com/in/alexyusnyu/) [![Instagram](https://img.shields.io/badge/Instagram-%40sh4dowpunk-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sh4dowpunk/)](https://www.instagram.com/sh4dowpunk/)
 
-📧 Email: [alexyusnyu@gmail.com](mailto:alexyusnyu@gmail.com) 📞 Phone: +359 89 2300 292
+📧 Email: [alexyusnyu@gmail.com](mailto:alexyusnyu@gmail.com) 
 
-## **GitHub Stats**
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=alexyusnyu&theme=dark&background=20232a&fire=FFA500)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexyusnyu&theme=dark&line_height=40&hide=css&bg_color=20232a)
 
 ![](https://komarev.com/ghpvc/?username=alexyusnyu&color=006E0F)
